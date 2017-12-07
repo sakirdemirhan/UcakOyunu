@@ -1,0 +1,80 @@
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\bomb-small.wav
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.jpg
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.PNG
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi2.png
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucak.PNG
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucaksavar.PNG
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\Resources\yanma.png
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.pdb
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csprojResolveAssemblyReference.cache
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Form1.resources
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csproj.GenerateResource.Cache
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.exe
+c:\users\wissen\documents\visual studio 2015\Projects\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.pdb
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.exe
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.pdb
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\bomb-small.wav
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.jpg
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.PNG
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi2.png
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucak.PNG
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucaksavar.PNG
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\Resources\yanma.png
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.pdb
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csprojResolveAssemblyReference.cache
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Form1.resources
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+C:\Users\sores\Desktop\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.exe
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.pdb
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\bomb-small.wav
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.jpg
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.PNG
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi2.png
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucak.PNG
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucaksavar.PNG
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\Resources\yanma.png
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.pdb
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Form1.resources
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+C:\Users\Wissen\Desktop\Yeni klasör\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csproj.GenerateResource.Cache
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.exe
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.pdb
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\bomb-small.wav
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.jpg
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi.PNG
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\mermi2.png
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucak.PNG
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\ucaksavar.PNG
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\Resources\yanma.png
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.exe
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\bin\Debug\UcakDeneme.pdb
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csprojResolveAssemblyReference.cache
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Form1.resources
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+F:\Eğitim\Wissen\Uçak Oyunu Projesi\UcakDeneme\UcakDeneme\obj\Debug\UcakDeneme.csproj.GenerateResource.Cache
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\UcakDeneme.exe.config
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\obj\Debug\UcakDeneme.exe
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\obj\Debug\UcakDeneme.pdb
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\bomb-small.wav
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\mermi.jpg
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\mermi.PNG
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\mermi2.png
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\ucak.PNG
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\ucaksavar.PNG
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\Resources\yanma.png
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\UcakDeneme.exe
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\bin\Debug\UcakDeneme.pdb
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\obj\Debug\UcakDeneme.csprojResolveAssemblyReference.cache
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\obj\Debug\UcakDeneme.Form1.resources
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\obj\Debug\UcakDeneme.Properties.Resources.resources
+C:\Users\sores\Source\Repos\UcakOyunu\UcakDeneme\obj\Debug\UcakDeneme.csproj.GenerateResource.Cache
